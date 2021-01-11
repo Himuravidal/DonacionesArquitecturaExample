@@ -1,4 +1,4 @@
-package com.example.donacionesarquitectura;
+package com.example.donacionesarquitectura.presenter;
 
 public interface IViewPresenter {
 
